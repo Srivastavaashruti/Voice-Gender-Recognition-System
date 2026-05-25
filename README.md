@@ -22,23 +22,24 @@ The system records live voice input, extracts audio features, predicts gender, a
 - SoundFile
 - NumPy
 
- ** Project Structure**
-Voice-Gender-Recognition-System
+** ** Project Structure****
+ 
+**Voice-Gender-Recognition-System**
 
 - main.py
 
 - extract_features.py
  
-  - train_model.py
+- train_model.py
 
- - model.pkl
+- model.pkl
 
 - dataset.csv
-
- - requirements.txt
+- 
+- requirements.txt
 
 - README.md
-- 
+
 
 **How to Run**
 
