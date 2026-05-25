@@ -1,3 +1,5 @@
+<img width="1532" height="1002" alt="Screenshot 2026-05-25 144759" src="https://github.com/user-attachments/assets/06b1fdd1-0399-4c26-8cc9-db0168be9746" />
+<img width="1532" height="1002" alt="Screenshot 2026-05-25 144759" src="https://github.com/user-attachments/assets/f92aeb76-50aa-4f85-ab77-93a671514d4b" />
 # Voice-Gender-Recognition-System
 
 An AI-based real-time voice gender recognition system developed using Python and Machine Learning.
