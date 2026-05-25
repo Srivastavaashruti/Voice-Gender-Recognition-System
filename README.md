@@ -25,33 +25,41 @@ The system records live voice input, extracts audio features, predicts gender, a
  ** Project Structure**
 Voice-Gender-Recognition-System
 
--[*] main.py
+- main.py
 
--[*] extract_features.py
+- extract_features.py
  
--[*] train_model.py
+  - train_model.py
 
--[*]  model.pkl
+ - model.pkl
 
--[*]  dataset.csv
+- dataset.csv
 
- -[*] requirements.txt
+ - requirements.txt
 
--[*] README.md
+- README.md
+- 
 
 **How to Run**
+
 Install Dependencies
+
 pip install -r requirements.txt
+
 Run Project
+
 **python main.py**
 
+
 **Working Process**
+
 * Record live voice
 * Extract voice features
 * Predict gender using ML model
 * Save audio in dataset folder
 
  ** Future Improvements**
+ 
 Flask Web Interface
 Deep Learning Integration
 GUI Application
@@ -59,4 +67,5 @@ Real-time Dashboard
 Cloud Deployment
 
 Author
+
 Ashruti Srivastava
