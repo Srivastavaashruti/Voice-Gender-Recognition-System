@@ -25,19 +25,19 @@ The system records live voice input, extracts audio features, predicts gender, a
  ** Project Structure**
 Voice-Gender-Recognition-System
 
-- [*] main.py
+-[*] main.py
 
-- [*] extract_features.py
+-[*] extract_features.py
  
-- [*] train_model.py
+-[*] train_model.py
 
-- [*]  model.pkl
+-[*]  model.pkl
 
 -[*]  dataset.csv
 
--  [*] requirements.txt
+ -[*] requirements.txt
 
-[*] README.md
+-[*] README.md
 
 **How to Run**
 Install Dependencies
